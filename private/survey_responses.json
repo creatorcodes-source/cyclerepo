@@ -1,0 +1,482 @@
+[
+    {
+        "id": "VEL-9E65AEA4",
+        "timestamp": "2026-09-25T14:46:42+00:00",
+        "rider_status": "active_cyclist",
+        "primary_purpose": "fitness_sport",
+        "riding_frequency": "3_times_week",
+        "weekly_distance": "80km_plus",
+        "current_bike_type": "road",
+        "holding_reasons": [],
+        "pain_points": [
+            "spare_parts_scarcity",
+            "monsoon_rust"
+        ],
+        "budget_band": "160k_300k",
+        "district": "Colombo",
+        "name": "Ranil Fernando",
+        "email": "ranil@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-2DB58226",
+        "timestamp": "2026-09-25T14:46:42+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "high_bike_prices",
+            "traffic_safety"
+        ],
+        "pain_points": [
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Kandy",
+        "name": "Dilshan Perera",
+        "email": "dilshan@example.com",
+        "phone": "",
+        "early_access_voucher": true,
+        "test_ride_interest": false,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-7B9656A6",
+        "timestamp": "2026-09-25T15:26:23+00:00",
+        "rider_status": "active_cyclist",
+        "primary_purpose": "fitness_sport",
+        "riding_frequency": "3_times_week",
+        "weekly_distance": "80km_plus",
+        "current_bike_type": "road",
+        "holding_reasons": [],
+        "pain_points": [
+            "spare_parts_scarcity",
+            "monsoon_rust"
+        ],
+        "budget_band": "160k_300k",
+        "district": "Colombo",
+        "name": "Ranil Fernando",
+        "email": "ranil@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-0AFAAF71",
+        "timestamp": "2026-09-25T15:26:23+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "high_bike_prices",
+            "traffic_safety"
+        ],
+        "pain_points": [
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Kandy",
+        "name": "Dilshan Perera",
+        "email": "dilshan@example.com",
+        "phone": "",
+        "early_access_voucher": true,
+        "test_ride_interest": false,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-3B31327D",
+        "timestamp": "2026-09-25T15:27:54+00:00",
+        "rider_status": "active_cyclist",
+        "primary_purpose": "daily_commuting",
+        "riding_frequency": "",
+        "weekly_distance": "above_80km",
+        "current_bike_type": "",
+        "holding_reasons": [],
+        "pain_points": [
+            "monsoon_rust"
+        ],
+        "budget_band": "80k_160k",
+        "district": "Jaffna",
+        "name": "Kasun Perera",
+        "email": "kasun@example.com",
+        "phone": "077123456",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "::1"
+    },
+    {
+        "id": "VEL-31A3B55B",
+        "timestamp": "2026-09-25T15:45:18+00:00",
+        "rider_status": "active_cyclist",
+        "primary_purpose": "fitness_sport",
+        "riding_frequency": "3_times_week",
+        "weekly_distance": "80km_plus",
+        "current_bike_type": "road",
+        "holding_reasons": [],
+        "pain_points": [
+            "spare_parts_scarcity",
+            "monsoon_rust"
+        ],
+        "budget_band": "160k_300k",
+        "district": "Colombo",
+        "name": "Ranil Fernando",
+        "email": "ranil@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-DE3EA92B",
+        "timestamp": "2026-09-25T15:45:18+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "high_bike_prices",
+            "traffic_safety"
+        ],
+        "pain_points": [
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Kandy",
+        "name": "Dilshan Perera",
+        "email": "dilshan@example.com",
+        "phone": "",
+        "early_access_voucher": true,
+        "test_ride_interest": false,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-4D744FFF",
+        "timestamp": "2026-09-25T15:49:03+00:00",
+        "rider_status": "active_cyclist",
+        "primary_purpose": "fitness_sport",
+        "riding_frequency": "3_times_week",
+        "weekly_distance": "80km_plus",
+        "current_bike_type": "road",
+        "holding_reasons": [],
+        "pain_points": [
+            "spare_parts_scarcity",
+            "monsoon_rust"
+        ],
+        "budget_band": "160k_300k",
+        "district": "Colombo",
+        "name": "Ranil Fernando",
+        "email": "ranil@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-814BD2E2",
+        "timestamp": "2026-09-25T15:49:03+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "high_bike_prices",
+            "traffic_safety"
+        ],
+        "pain_points": [
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Kandy",
+        "name": "Dilshan Perera",
+        "email": "dilshan@example.com",
+        "phone": "",
+        "early_access_voucher": true,
+        "test_ride_interest": false,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-7A19A156",
+        "timestamp": "2026-09-25T15:54:12+00:00",
+        "rider_status": "active_cyclist",
+        "primary_purpose": "fitness_sport",
+        "riding_frequency": "3_times_week",
+        "weekly_distance": "80km_plus",
+        "current_bike_type": "road",
+        "holding_reasons": [],
+        "pain_points": [
+            "spare_parts_scarcity",
+            "monsoon_rust"
+        ],
+        "budget_band": "160k_300k",
+        "district": "Colombo",
+        "name": "Ranil Fernando",
+        "email": "ranil@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-051FD9F3",
+        "timestamp": "2026-09-25T15:54:12+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "high_bike_prices",
+            "traffic_safety"
+        ],
+        "pain_points": [
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Kandy",
+        "name": "Dilshan Perera",
+        "email": "dilshan@example.com",
+        "phone": "",
+        "early_access_voucher": true,
+        "test_ride_interest": false,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-3C2335C6",
+        "timestamp": "2026-09-25T17:04:02+00:00",
+        "rider_status": "active_cyclist",
+        "primary_purpose": "fitness_sport",
+        "riding_frequency": "3_times_week",
+        "weekly_distance": "80km_plus",
+        "current_bike_type": "road",
+        "holding_reasons": [],
+        "pain_points": [
+            "spare_parts_scarcity",
+            "monsoon_rust"
+        ],
+        "budget_band": "160k_300k",
+        "district": "Colombo",
+        "name": "Ranil Fernando",
+        "email": "ranil@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-E3409077",
+        "timestamp": "2026-09-25T17:04:02+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "high_bike_prices",
+            "traffic_safety"
+        ],
+        "pain_points": [
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Kandy",
+        "name": "Dilshan Perera",
+        "email": "dilshan@example.com",
+        "phone": "",
+        "early_access_voucher": true,
+        "test_ride_interest": false,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-A386BA4C",
+        "timestamp": "2026-09-25T17:53:06+00:00",
+        "rider_status": "active_cyclist",
+        "primary_purpose": "fitness_sport",
+        "riding_frequency": "3_times_week",
+        "weekly_distance": "80km_plus",
+        "current_bike_type": "road",
+        "holding_reasons": [],
+        "pain_points": [
+            "spare_parts_scarcity",
+            "monsoon_rust"
+        ],
+        "budget_band": "160k_300k",
+        "district": "Colombo",
+        "name": "Ranil Fernando",
+        "email": "ranil@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-06ABCE9A",
+        "timestamp": "2026-09-25T17:53:06+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "high_bike_prices",
+            "traffic_safety"
+        ],
+        "pain_points": [
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Kandy",
+        "name": "Dilshan Perera",
+        "email": "dilshan@example.com",
+        "phone": "",
+        "early_access_voucher": true,
+        "test_ride_interest": false,
+        "ip_masked": "127.0.0.xxx"
+    },
+    {
+        "id": "VEL-111D13B9",
+        "timestamp": "2026-09-25T18:30:05+00:00",
+        "rider_status": "active_cyclist",
+        "primary_purpose": "daily_commuting",
+        "riding_frequency": "",
+        "weekly_distance": "30_80km",
+        "current_bike_type": "",
+        "holding_reasons": [],
+        "pain_points": [
+            "arbitrary_pricing",
+            "lack_of_riding_groups"
+        ],
+        "budget_band": "80k_160k",
+        "district": "Matara",
+        "name": "Adam",
+        "email": "Steveadam@demo.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "::1"
+    },
+    {
+        "id": "VEL-4562BB11",
+        "timestamp": "2026-09-25T18:32:31+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "high_bike_prices"
+        ],
+        "pain_points": [
+            "monsoon_rust",
+            "road_potholes",
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Matale",
+        "name": "Demo User 1",
+        "email": "demo1@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "::1"
+    },
+    {
+        "id": "VEL-3A89350F",
+        "timestamp": "2026-09-25T18:42:03+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "high_bike_prices"
+        ],
+        "pain_points": [
+            "monsoon_rust",
+            "road_potholes",
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Galle",
+        "name": "Demo User 2",
+        "email": "demo2@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "::1"
+    },
+    {
+        "id": "VEL-980A1480",
+        "timestamp": "2026-09-25T18:47:39+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "high_bike_prices"
+        ],
+        "pain_points": [
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Colombo",
+        "name": "Demo User 3",
+        "email": "demo3@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "::1"
+    },
+    {
+        "id": "VEL-15EC8AAE",
+        "timestamp": "2026-09-25T18:50:05+00:00",
+        "rider_status": "aspiring_cyclist",
+        "primary_purpose": "commuting",
+        "riding_frequency": "",
+        "weekly_distance": "",
+        "current_bike_type": "",
+        "holding_reasons": [
+            "traffic_safety"
+        ],
+        "pain_points": [],
+        "budget_band": "80k_160k",
+        "district": "Kandy",
+        "name": "Live Browser Survey Test",
+        "email": "livetest@example.com",
+        "phone": "+94711112222",
+        "early_access_voucher": true,
+        "test_ride_interest": false,
+        "ip_masked": "::1"
+    },
+    {
+        "id": "VEL-41A747F0",
+        "timestamp": "2026-09-25T18:53:10+00:00",
+        "rider_status": "occasional_rider",
+        "primary_purpose": "fitness_sport",
+        "riding_frequency": "",
+        "weekly_distance": "under_30km",
+        "current_bike_type": "",
+        "holding_reasons": [],
+        "pain_points": [
+            "arbitrary_pricing"
+        ],
+        "budget_band": "under_80k",
+        "district": "Hambantota",
+        "name": "Demo User 4",
+        "email": "demo4@example.com",
+        "phone": "0771234567",
+        "early_access_voucher": true,
+        "test_ride_interest": true,
+        "ip_masked": "::1"
+    }
+]

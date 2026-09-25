@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 — Road Not Found | Veloce Cycles</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="src/styles/style.css">
+    <style>
+        .error-page-wrap {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 2rem;
+            background: radial-gradient(circle at center, rgba(255, 107, 0, 0.08) 0%, var(--bg-darkest) 70%);
+        }
+        .error-code {
+            font-family: var(--font-display);
+            font-size: clamp(6rem, 15vw, 10rem);
+            font-weight: 900;
+            line-height: 1;
+            background: linear-gradient(135deg, var(--accent-orange), var(--accent-cyan));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1rem;
+        }
+        .error-title {
+            font-size: clamp(1.5rem, 3vw, 2.2rem);
+            margin-bottom: 1rem;
+        }
+        .error-desc {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            max-width: 480px;
+            margin: 0 auto 2.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-page-wrap">
+        <div>
+            <div class="error-code">404</div>
+            <h1 class="error-title">Looks like this road doesn't exist.</h1>
+            <p class="error-desc">
+                You've veered off the paved tarmac. Let's get you back on track with the rest of the peloton.
+            </p>
+            <a href="index.html" class="btn btn-primary">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="19" y1="12" x2="5" y2="12"></line>
+                    <polyline points="12 19 5 12 12 5"></polyline>
+                </svg>
+                Back to Veloce Cycles
+            </a>
+        </div>
+    </div>
+</body>
+</html>
